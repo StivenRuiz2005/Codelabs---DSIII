@@ -1,4 +1,4 @@
-package com.empresa.microservicio.infrastructure.persistence;
+package infrastructre.persistence;
 
 import com.empresa.microservicio.domain.model.Producto;
 import com.empresa.microservicio.domain.repository.ProductoRepository;
